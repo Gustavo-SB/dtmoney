@@ -21,7 +21,7 @@ export function TransactionsTable() {
             <td>20/02/2021</td>
           </tr>
           <tr>
-            <td>Aluguel</td>
+            <td>Teste</td>
             <td className="withdraw">- R$1100,00</td>
             <td>Casa</td>
             <td>17/02/2021</td>
